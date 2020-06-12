@@ -1,5 +1,2 @@
-work/*
-!.gitignore
-!README.md
-
-!work/src/*
+work/dist
+work/node_modules
