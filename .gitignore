@@ -1,1 +1,5 @@
-./work/node_modules/*
+work/*
+!.gitignore
+!README.md
+
+!work/src/*
